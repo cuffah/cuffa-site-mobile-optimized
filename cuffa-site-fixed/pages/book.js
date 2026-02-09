@@ -11,7 +11,7 @@ export default function Book() {
     {
       id: '1on1',
       title: '1-on-1 Private Coaching',
-      price: '$35',
+      price: '$40',
       duration: '1 hour',
       description: 'In depth review of 1-2 replay codes from your recent matches/scrims/ranked games and I\'ll provide feedback that you can use towards improving specific goals or general gameplay.',
       acuityUrl: 'https://app.acuityscheduling.com/schedule.php?owner=38211508&appointmentType=88422670'
@@ -19,7 +19,7 @@ export default function Book() {
     {
       id: 'team',
       title: 'Team Coaching',
-      price: '$40',
+      price: '$45',
       duration: '1 hour',
       description: 'One hour of team coaching where we\'ll go over 1-2 replay codes with your team and provide practical feedback, outlining specific goals and areas to improve upon.',
       acuityUrl: 'YOUR_TEAM_COACHING_ACUITY_URL'
@@ -27,7 +27,7 @@ export default function Book() {
     {
       id: 'scrim',
       title: 'Live Scrim Coaching',
-      price: '$30',
+      price: '$35',
       duration: '1 hour',
       description: 'I\'ll spectate your scrims live and provide real-time feedback on team communication, macro goals and team environment.',
       acuityUrl: 'YOUR_SCRIM_COACHING_ACUITY_URL'
@@ -35,7 +35,7 @@ export default function Book() {
     {
       id: 'package',
       title: '3 Session Package',
-      price: '$100',
+      price: '$115',
       duration: '3 hours',
       description: '3x 1hr sessions of one on one private coaching. Each session: In depth review of 1-2 replay codes from your recent matches.',
       badge: 'Save $5',
